@@ -140,9 +140,3 @@ Con los resultados se ajustarán la interfaz, las respuestas del asistente y las
 ## Conclusiones
 
 El design thinking permite abordar la caída del turismo desde las necesidades reales de las personas. Una plataforma con asistente virtual de IA puede mejorar la experiencia del turista y dar visibilidad a los negocios locales, incluso en un contexto de recursos limitados.
-
----
-
-## Autores
-
-- _Agregar nombres de los integrantes del equipo_
